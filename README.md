@@ -1,3 +1,14 @@
+[![An image of @tayyaba_bhatti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tayyaba_bhatti)](https://holopin.io/@tayyaba_bhatti)
+
+
+
+
+
+
+
+
+
+
 # Hi! I'm Tayyaba Bhatti.👋
 ### An undergraduate Software Engineer.👩‍🎓
 * ✒️  I am currently in the process of learning Java.
@@ -7,6 +18,6 @@
 
 # Languages
 ### Java
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
