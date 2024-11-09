@@ -18,7 +18,7 @@
 * :arrow_upper_right: Visit my Holopin Profile https://holopin.me/tayyaba_bhatti)](https://holopin.io/@tayyaba_bhatti
 
 # Languages
-### Java
+### Java, Javascript, JSX
 
 
 
