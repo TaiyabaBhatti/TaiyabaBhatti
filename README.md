@@ -11,14 +11,22 @@
 
 # Hi! I'm Tayyaba Bhatti.👋
 ### An undergraduate Software Engineer.👩‍🎓
-* ✒️  I am currently in the process of learning Java.
+* ✒️  I am a Frontend Developer.
 * 🌱  I am currently focused on developing the front end of websites and applications. I am still learning and growing in this area. 🌱
 * 📬  Reach me at taiyababhattii@gmail.com
-* 🎾  Sports: Tennis
+* 🎾  Sports: Badminton
 * :arrow_upper_right: Visit my Holopin Profile https://holopin.me/tayyaba_bhatti)](https://holopin.io/@tayyaba_bhatti
 
-# Languages
+## Languages
 ### Java, Javascript, JSX
+
+
+## Libraries, Frameworks and Others
+### ReactJs, Tailwind, Firebase, MirajJs
+
+
+
+
 
 
 
