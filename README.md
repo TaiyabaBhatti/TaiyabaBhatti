@@ -15,7 +15,7 @@
 * 🌱  I am currently focused on developing the front end of websites and applications. I am still learning and growing in this area. 🌱
 * 📬  Reach me at taiyababhattii@gmail.com
 * 🎾  Sports: Badminton
-* :arrow_upper_right: Visit my Holopin Profile https://holopin.me/tayyaba_bhatti)](https://holopin.io/@tayyaba_bhatti
+
 
 ## Languages
 ### Java, Javascript, JSX
