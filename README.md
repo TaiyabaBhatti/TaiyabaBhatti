@@ -8,7 +8,8 @@
 * 🌱  I am currently focused on developing the front end of websites and applications. I am still learning and growing in this area. 🌱
 * 📬  Reach me at taiyababhattii@gmail.com
 * 🎾  Sports: Badminton
-
+* HactoberFest Earned Badges: https://holopin.io/@tayyaba_bhatti
+* Cloud Arcade Badges: https://www.cloudskillsboost.google/public_profiles/a1c89590-84d3-432a-a457-3c22505263f8
 
 ## Languages
 ### Java, Javascript, JSX
