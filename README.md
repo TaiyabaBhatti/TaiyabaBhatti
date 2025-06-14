@@ -1,11 +1,4 @@
-[![An image of @tayyaba_bhatti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tayyaba_bhatti)](https://holopin.io/@tayyaba_bhatti)
-
-
-
-
-
-
-
+[![An image of @tayyaba_bhatti's google cloud badges and certifications, which is a link to view their public profile](https://github.com/user-attachments/assets/aa3ee948-8180-4b95-b9b0-a6fb5dd0f459)](https://www.credly.com/users/tayyaba-bhatti)
 
 
 
